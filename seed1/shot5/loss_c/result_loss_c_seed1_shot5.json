@@ -1,0 +1,13 @@
+{
+  "method": "loss_c",
+  "seed": 1,
+  "ways": 5,
+  "shots": 5,
+  "query": 5,
+  "best_val_acc": 57.59999990463257,
+  "test_acc": 34.79999974370003,
+  "test_ci95": 7.930939135096923,
+  "best_epoch": 1,
+  "support_pol": "mixed",
+  "query_pol": "mixed"
+}

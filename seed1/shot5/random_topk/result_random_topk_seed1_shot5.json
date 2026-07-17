@@ -1,0 +1,13 @@
+{
+  "method": "random_topk",
+  "seed": 1,
+  "ways": 5,
+  "shots": 5,
+  "query": 5,
+  "best_val_acc": 65.59999942779541,
+  "test_acc": 43.200000151991844,
+  "test_ci95": 8.730254864912432,
+  "best_epoch": 1,
+  "support_pol": "mixed",
+  "query_pol": "mixed"
+}

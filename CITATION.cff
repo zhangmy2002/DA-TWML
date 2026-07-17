@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated manuscript."
+title: "DA-TWML: Domain-Aware Top-k Weighted Meta-Learning for Few-Shot Petrographic Thin-Section Classification"
+authors:
+  - family-names: Zhang
+    given-names: Mengyao
+  - family-names: Huang
+    given-names: Jingjing
+  - family-names: Wang
+    given-names: Maofa
+date-released: 2026-07-11
+license: MIT
+repository-code: "https://github.com/YOUR-USERNAME/DA-TWML"

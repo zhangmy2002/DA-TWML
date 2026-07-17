@@ -1,0 +1,13 @@
+{
+  "method": "full",
+  "seed": 1,
+  "ways": 5,
+  "shots": 1,
+  "query": 5,
+  "best_val_acc": 65.28000029176474,
+  "test_acc": 65.82800022512674,
+  "test_ci95": 0.8054510059541135,
+  "best_epoch": 28,
+  "support_pol": "mixed",
+  "query_pol": "mixed"
+}

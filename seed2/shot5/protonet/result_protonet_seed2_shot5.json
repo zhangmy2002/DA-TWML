@@ -1,0 +1,13 @@
+{
+  "method": "protonet",
+  "seed": 2,
+  "ways": 5,
+  "shots": 5,
+  "query": 5,
+  "best_val_acc": 82.25999988615513,
+  "test_acc": 79.2559999525547,
+  "test_ci95": 0.6841503310721662,
+  "best_epoch": 25,
+  "support_pol": "mixed",
+  "query_pol": "mixed"
+}
